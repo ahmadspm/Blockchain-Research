@@ -1,0 +1,18 @@
+DATA 61 
+
+LIST OF PROFESSORS TO BE CONTACTED
+
+Xiwei.Xu@data61.csiro.au   https://people.csiro.au/x/s/xiwei-xu
+
+qinghua.lu@data61.csiro.au   https://people.csiro.au/l/q/qinghua-lu
+
+june.andronick [at] data61.csiro.au
+
+liming.zhu@data61.csiro.au
+https://people.csiro.au/z/l/liming-zhu
+
+
+
+
+
+
